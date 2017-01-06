@@ -8,14 +8,14 @@ Check out these docs for more advanced find queries https://docs.mongodb.org/get
 
 ### Setup
 
-1. Load the data using this command `mongoimport --db challenge --collection bios --drop --file bios.json`
-2. Start the Mongo shell with `mongo`.
-3. Connect to the `challenge` database using the mongo shell command `use challenge`
+1. Load the data using this command `mongoimport --db challenge --collection bios --drop --file bios.json` X
+2. Start the Mongo shell with `mongo`. X
+3. Connect to the `challenge` database using the mongo shell command `use challenge` X
 
 ### Queries
 
 Create a file, `queries.js` that will contain the queries that correctly address the criteria in the
-steps that follow.
+steps that follow. X
 
 1. Find documents that have awards.
 2. Find documents that don't have awards.
